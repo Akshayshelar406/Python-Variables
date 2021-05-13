@@ -5,6 +5,6 @@ Python user input
 
 Python vairables
 
-![image](https://user-images.githubusercontent.com/82565293/118160551-0f243280-b43c-11eb-861d-841200e7741e.png)
+![Capture](https://user-images.githubusercontent.com/82565293/118160769-5a3e4580-b43c-11eb-93ce-dc923fd13898.PNG)
 
 
